@@ -1,6 +1,7 @@
 # THIRD SPARK PROJECT
 
-This page is displayed in your browser after you type in http://localhost:4567
+The first page is displayed in your browser after you type in http://localhost:4567 showing a form and a "Welcome Students" message.<br />
+After you log in, the second page appears. When the user returns to the home page, a welcome message with their name appears instead.
 ![web_page](page1.png)
 ![web_page](page2.png)
 
